@@ -179,7 +179,7 @@ h2::after {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 2.8rem;
+  gap: 5rem;
   margin-top: 1rem;
 }
 .skill {
